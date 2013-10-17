@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Anna Birna Ivars." << endl;// eg skrifadi nafnid mitt. 
 	int val;
 	do
 	{
