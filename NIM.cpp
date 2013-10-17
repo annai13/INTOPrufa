@@ -110,6 +110,8 @@ void hjalp( )
 
 void birta( int* hruga )
 {
+
+	cout << "Bjorg Marium Adamsdottir" <<endl;//eg setti  nafnid mitt her.
 	if( !samtals( hruga ) )
 	{
 		return;
